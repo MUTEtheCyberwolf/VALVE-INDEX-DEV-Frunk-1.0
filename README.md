@@ -4,6 +4,7 @@ Valve Index DEV Frunk 1.0 Custom made to give the Index more Mounting Options fo
 Custom PCB for USB-C Conversion, Fan Controll and EyetrackVR Interface currently in Development.
 
 Print Material: PETG, PA12, PA12+CF15, PLA, ASA
+
 Supports needed: Yes (for now)
 
 Made for M4 Screws. I recommend threaded Inserts from RUTHEX #NotSponsored
