@@ -18,7 +18,10 @@ https://tinyurl.com/HeatInserts
 # ETVR In Action with DEV Frunk 1.0 and GEN 3 IR Ringlight
 
 Currently tracking only Right Eye to find the perfect Placement. 
+
 Gerber Files are being worked on.
+
+Link to EyeTrackVR: https://github.com/EyeTrackVR
 
 https://github.com/MUTEtheCyberwolf/VALVE-INDEX-DEV-Frunk-1.0/assets/98415183/26b2f5b6-8aac-414c-be2f-e947e9494397
 
