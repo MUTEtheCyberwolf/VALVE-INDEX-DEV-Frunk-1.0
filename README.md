@@ -13,6 +13,8 @@ https://tinyurl.com/HeatInserts
 # NEW CHANGES
 # Added Basic Setup Folder for Beginners
 
+# Added a Basic Mount for the XIAO Boards (1 Base and 2 Retainer Clips needed)
+
 ![VIDEVFrunk1](https://user-images.githubusercontent.com/98415183/209579540-a61c1d16-331d-47b4-9fd5-ee35704eea3e.png)
 
 # ETVR In Action with DEV Frunk 1.0 and GEN 3 IR Ringlight
