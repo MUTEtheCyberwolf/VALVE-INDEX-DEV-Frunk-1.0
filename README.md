@@ -1,7 +1,8 @@
 # VALVE-INDEX-DEV-Frunk-1.0
-Valve Index DEV Frunk 1.0 Custom made to give the Index more Mounting Options for Adapters and DIY Devices. All Modifications that i create are Reversible and will not damage the Product. (Except you try to break it on purpose)
+Valve Index DEV Frunk 1.0 Is made to give the Index more Mounting Options for Adapters and DIY Devices. All Modifications that I create are Reversible and will not damage the Product. (Except you try to break it on purpose)
+If you find spelling Mistakes in the Instructions please be patient with me I usually write them after work when Brain becomes Smoothie ^^
 
-Custom PCB for USB-C Conversion, Fan Controll and EyetrackVR Interface currently in Development.
+Custom PCB for USB-C Conversion, Fan control, and EyetrackVR Interface currently in Development.
 
 Print Material: PETG, PA12, PA12+CF15, PLA, ASA
 
@@ -19,7 +20,7 @@ https://tinyurl.com/HeatInserts
 
 # ETVR In Action with DEV Frunk 1.0 and GEN 3 IR Ringlight
 
-Currently tracking only Right Eye to find the perfect Placement. 
+I am currently tracking only the Right Eye to find the perfect Placement. 
 
 Gerber Files are being worked on.
 
