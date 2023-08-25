@@ -12,13 +12,13 @@ Made for M4 Screws. I recommend threaded Inserts from RUTHEX #NotSponsored
 https://tinyurl.com/HeatInserts
 
 # NEW CHANGES
-# Added Basic Setup Folder for Beginners
+# - Added Basic Setup Folder for Beginners
 
-# Added a Basic Mount for the XIAO Boards (1 Base and 2 Retainer Clips needed)
+# - Added a Basic Mount for the XIAO Boards (1 Base and 2 Retainer Clips needed)
 
-![VIDEVFrunk1](https://user-images.githubusercontent.com/98415183/209579540-a61c1d16-331d-47b4-9fd5-ee35704eea3e.png)
+![index_hmd_assembly v28 ](https://github.com/MUTEtheCyberwolf/VALVE-INDEX-DEV-Frunk-1.0/assets/98415183/a103844d-9f40-4f13-9a4e-09d33e4e9f90)
 
-# ETVR In Action with DEV Frunk 1.0 and GEN 3 IR Ringlight
+# ETVR In Action with DEV Frunk 1.0 and GEN 3 IR Ringlight (Work in Progress)
 
 I am currently tracking only the Right Eye to find the perfect Placement. 
 
