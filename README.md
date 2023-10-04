@@ -5,7 +5,7 @@ Example Build by Towneh using the DEV Frunk 1.0 System with the EyetrackVR V4 LE
 Valve Index DEV Frunk 1.0 Is made to give the Index more Mounting Options for Adapters and DIY Devices. All Modifications that I create are Reversible and will not damage the Product. (Except you try to break it on purpose)
 If you find spelling Mistakes in the Instructions please be patient with me I usually write them after work when Brain becomes Smoothie ^^
 
-Custom PCB for USB-C Conversion, Fan control, and EyetrackVR Interface currently in Development.
+Custom PCB for USB-C Conversion, Fan control, and EyetrackVR Interface currently in Development. Fan mount is designed for 30x30x7mm Fans.
 
 Print Material: PETG, PA12, PA12+CF15, PLA, ASA
 
