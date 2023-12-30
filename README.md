@@ -8,7 +8,7 @@ M4 Mounting points to fix it to your Headset.
 
 ## THIS Modification will NOT Void your Headsets Warranty if done properly
 
-## UNPLUG YOUR HEADSET BEFORE WORKING ON IT !!!
+# UNPLUG YOUR HEADSET BEFORE WORKING ON IT !!!
 
 ## Repository includes:
  - Base Mounting Frunk
