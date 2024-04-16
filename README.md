@@ -29,6 +29,8 @@ M4 Mounting points to fix it to your Headset.
  - RF Shielding Tape [TITAN RF](https://www.amazon.de/TitanRF-Faraday-Tape-High-Shielding-Conductive/dp/B07CRLCGCH/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3K4CI4XNYIJR1&qid=1701100893&sprefix=emi%20shield%20tape,aps,109) (For the USB Cable)
  - M4 Screws [Amazon Link](https://www.amazon.de/Innensechskantschraube-Edelstahl-Sechskantschraube-Mechanische-Kombinationsbox/dp/B07PRWDHQL/ref=sr_1_6?crid=287HANFWL0KTN&qid=1701101083&sprefix=m4%20zylinder,aps,105) (You will need 6x M4x10/15 and 1x M4x30 for Full Coverage)
 
+![Drawing1](https://github.com/MUTEtheCyberwolf/VALVE-INDEX-DEV-Frunk-1.0/assets/98415183/3b2b4fc2-a0ce-4641-8d0f-8fcac9271e34)
+
 ![index_hmd_assembly v28 ](https://github.com/MUTEtheCyberwolf/VALVE-INDEX-DEV-Frunk-1.0/assets/98415183/a103844d-9f40-4f13-9a4e-09d33e4e9f90)
 
 # ETVR In Action with DEV Frunk 1.0 and GEN 3 IR Ringlight (Work in Progress)
