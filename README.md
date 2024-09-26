@@ -37,7 +37,8 @@ M4 Mounting points to fix it to your Headset.
 
 I am currently tracking only the Right Eye to find the perfect Placement. 
 
-Gerber Files are being worked on.
+Link to the OSHW Directory of my V1 ETVR Tracking PCB. (ONLY RECOMMENDED FOR PEOPLE WHO KNOW WHAT THEY ARE DOING)
+[OSHWLAB Link](https://oshwlab.com/mutethecyberwolf/universal-tracking-module-v1-stt-hub-xiao)
 
 Link to EyeTrackVR: https://github.com/EyeTrackVR
 
