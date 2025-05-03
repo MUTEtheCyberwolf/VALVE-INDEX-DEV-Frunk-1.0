@@ -10,9 +10,12 @@ M4 Mounting points to fix it to your Headset.
 
 # !!! UNPLUG YOUR HEADSET BEFORE WORKING ON IT !!!
 
+# DF1.0 will be marked as complete with the Upload of the Babble Facial Bridge adapter. I am working on a new System the [DF2.0](https://github.com/MUTEtheCyberwolf/Valve-Index-Dev-Frunk-2.0) which will most likely replace the DF1.0 in the long term. Thanks to everyone who supported this first Era of a Open Source Hardware Modding Platform of the INDEX <3
+
 ## Repository includes:
  - Base Mounting Frunk
  - HTC VIVE Facial Tracker Mount
+ - Project Babble Facetracker Mount (Infograph needs to be updated. You dont need the VIDEV parts but only the FacialTrackerBridgeBABBLEFrunk1.stl/3mf)
  - EyetrackVR Mount (XIAO Boards)
  - EyetrackVR Mount (ESPCAM Boards)
  - VROptician IR Ringlight Mounts (Only works with V2 Lenses) SOON to be Released
